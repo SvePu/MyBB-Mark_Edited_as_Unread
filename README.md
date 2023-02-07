@@ -1,6 +1,8 @@
 # MyBB Mark Edited as Unread
 MyBB 1.8 Plugin to mark edited posts as unread
 
+INFO: This plugin based on [MyBB-Mark_Edited_as_Unread](https://github.com/lukasamd/MyBB-Mark_Edited_as_Unread) by [lukasamd](https://github.com/lukasamd)
+
 --------------------------------
 
 **Installation:**
