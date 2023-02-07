@@ -241,8 +241,6 @@ function markEdited_datahandler_post_update($posthandler)
     }
 }
 
-
-
 function markEdited_calculateSimilarity($string1, $string2)
 {
     global $mybb;
